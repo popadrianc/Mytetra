@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" icon="/BlueSphere/color_bluesphere_filesave-2.1.svg" id="1300000000aaaaaaaaa1" name="AWS"/>
+  <node crypt="" icon="/Gnome/color_gnome_2_connect_creating.svg" id="15196697944cfg46n1j4" name="Linux">
+   <recordtable>
+    <record id="1519679638pc9oqp7vvt" name="SSH agent forwarding" author="Adrian Pop" url="" tags="ssh, agent, forwarding" ctime="20180226231417" dir="1519679638yl3kj92ugm" file="text.html"/>
+    <record id="1519679283a7it8nq7zp" name="Jump host" author="Adrian Pop" url="" tags="jump host, jump, host" ctime="20180226231420" dir="151967928356xrmrwjoc" file="text.html"/>
+    <record id="1519678872ebyuvgzw9t" name="PGP Trust" author="Adrian Pop" url="" tags="pgp, trust" ctime="20180226231423" dir="15196788723s4z8br2us" file="text.html"/>
+    <record id="15196782450v1ekqrnjm" name="PGP" author="Adrian Pop" url="" tags="PGP" ctime="20180226231426" dir="1519678245cotj6amm05" file="text.html"/>
+    <record id="1519677921popm1tbsgy" name="SSH Keys Setup" author="Adrian Pop" url="" tags="ssh, keys, setup" ctime="20180226231428" dir="15196779212o9mk6mrp2" file="text.html"/>
+    <record id="1519677699k5jiuhdnf2" name="PATH" author="Adrian Pop" url="" tags="path" ctime="20180226231430" dir="1519677699jciyqbf487" file="text.html"/>
+    <record id="151967741289dx7ivws7" name="Moving around" author="Adrian Pop" url="" tags="move, around, change, dir" ctime="20180226231433" dir="1519677412r9t7lapu6z" file="text.html"/>
+    <record id="15196770172yahk3y3a4" name="Verbose" author="Adrian Pop" url="" tags="verbose" ctime="20180226231435" dir="1519677017uqvhclqi36" file="text.html"/>
+   </recordtable>
+   <node crypt="" id="1519671967q4j93mkas3" name="Useful commands">
+    <recordtable>
+     <record id="1519676472arhaaazhhe" name="SSH" author="Adrian Pop" url="" tags="ssh" ctime="20180226222112" dir="15196764720vtbyp6vb7" file="text.html"/>
+     <record id="1519676801h0k0xud4k7" name="SSH Tunnel" author="Adrian Pop" url="" tags="ssh, tunnel" ctime="20180226222641" dir="1519676801axbjp103ba" file="text.html"/>
+     <record id="1519678541iftz8r39kh" name="Import, export and backup PGP keys" author="Adrian Pop" url="" tags="import, export, backup, pgp, keys" ctime="20180226225541" dir="1519678541daj2050cmv" file="text.html"/>
+     <record id="151967908301znfkwoid" name="Encrypt and Decrypt files" author="Adrian Pop" url="" tags="encrypt, decrypt, files" ctime="20180226230443" dir="1519679083wcuzqvx1am" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" icon="/Gnome/color_gnome_2_insert-image.svg" id="15196697974w1eoiumk9" name="Python"/>
+ </content>
+</root>
